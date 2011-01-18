@@ -3,43 +3,41 @@ Base Words in Longman Dictionary
 
 A
 
-absent
-accident
-accordance
-accustom
-ache
-acid
-adjective
-admiration
-admire
-admit
-advantage
-adverb
-advertize
-afford
-alcohol
-alphabet
-amongst
-amuse
-ancient
-ankle
-annoy
-anxious
-apparatus
-appoint
-approve
-arch
-arise
-armour
-arms
-ashamed
-ash
-association
-atomic
-attentive
-average
-awkward
-axe
+absent 缺席的，漫不经心的
+accordance 一致，和谐
+accustom 使习惯于
+ache 疼痛
+acid n. 酸 a. 酸的，敏锐的
+adjective 形容词（的）
+admiration 赞赏，钦佩 
+admire 赞赏
+admit 承认，容许
+advantage 优点，好处
+adverb 副词
+advertize 做广告
+afford 买得起
+alcohol 酒精，酒
+alphabet 字母，字母表
+amongst 在。。。当中
+amuse 消遣，娱乐，使发笑
+ancient 古代的，年老的
+ankle 踝
+annoy 使恼怒，骚扰
+anxious 忧虑的，渴望的
+apparatus 装置，器具，器官
+appoint 任命，指定，下令
+approve 赞同，核准
+arch 拱门，拱形
+arise 站立，出现，起来
+armour 装甲
+arms 武器，军事行动
+ashamed 惭愧的，羞耻的
+ash 灰烬
+association 协会
+atomic 原子的
+attentive 注意的，留心的
+awkward 笨拙的，棘手的
+axe n. 斧头  vt. 消减
 
 
 B
