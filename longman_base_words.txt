@@ -42,45 +42,38 @@ axe n. 斧头  vt. 消减
 
 B
 
-bacteriaium
-bake
-band
+bacteria 细菌
+bake 烧烤
+band 箍；带
 bare
-barrel
-basin
-beak
-beam
-bean
-beard
-beat
-beg
-bell
-belt
-bend
-beneath
-berry
-bitter
-blade
-blame
-bleed
-bless
-boil
-bomb
-bowel
-bowl
-brass
-breadth
-breast
-breathe
-breed
-brick
-Buddhish
-bullet
-bunch
-burst
-bury
-bush
-butter
+barrel 桶
+basin 盆
+beak 鸟喙
+beam 梁
+bean 豆子
+beard 胡须
+belt 腰带
+bend 使弯曲
+beneath 在。。。下面
+berry 浆果
+bitter 苦味的
+bleed 流血
+bless 求神保佑
+boil 沸水
+bowel 肠
+bowl 碟
+brass 黄铜
+breadth 宽度
+breast 乳房
+breathe 呼吸
+breed 生育
+brick 砖
+bullet 子弹
+bunch 串；束
+burst 爆炸
+bury 葬
+bush 灌木
+butter 黄油
 
 
 C
